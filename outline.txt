@@ -1,0 +1,15 @@
+# Presentation ideas for talk
+
+- mention git , why it is important (PhD comics strip). Quick working example.
+
+- Bash is your friend. Code example (sample analysis?) and pathological examples (joinsort)
+
+- recycle code (e.g. commons library in FG)
+
+- test cases. mention it can be hard at times
+
+- cache your data
+
+- documentation (cfr git)
+
+- naive parallelization when you can
