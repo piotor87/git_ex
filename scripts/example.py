@@ -20,4 +20,4 @@ def add_log(script_path=os.path.dirname(os.path.abspath(__file__))):
     
 if __name__ == "__main__":
     log_file = add_log()
-    read_log(log_file)
+    #read_log(log_file)
