@@ -4,12 +4,14 @@
 
 - Bash is your friend. Code example (sample analysis?) and pathological examples (joinsort)
 
+- write scripts. don't rely too much on interactive sessions or even command line history!
+
 - recycle code (e.g. commons library in FG)
 
-- test cases. mention it can be hard at times
+- test cases. mention it can be hard at times. try to come up with reasonable compromises and work your way up.
 
-- cache your data
+- cache your data!
 
 - documentation (cfr git)
 
-- naive parallelization when you can
+- naive parallelization when you can (write example)
